@@ -10,10 +10,10 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main>
+      <main> 
         <Header title="Welcome to my app!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Bienvenidos a buestra nueva página web en vez de la antigua http://vulturchile.tilda.ws
         </p>
       </main>
 
