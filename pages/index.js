@@ -13,10 +13,13 @@ export default function Home() {
       <main> 
         <Header title="GRACIAS POR VISITAR NUESTRA PÁGINA WEB" />
         <p className="description">
-          Bienvenidos a nuestra nueva página web en vez de la antigua <ins>http://vulturchile.tilda.ws</ins>
+          Bienvenidos a nuestra nueva página web en vez de la antigua <http://vulturchile.tilda.ws>
         </p>
-        <img src="/Screenshot 2023-07-03 at 21.59.57.png" />
       </main>
+
+          Muchas gracxias por visitarnos. Somos Vultur Chile, un equipo de profesionales dedicados a 
+
+            <img src="Screenshot 2023-07-03 at 21.59.57.png" width="213" height="152">
 
       <Footer />
     </div>
