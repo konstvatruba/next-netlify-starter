@@ -15,7 +15,7 @@ export default function Home() {
         <p className="description">
           Bienvenidos a buestra nueva página web en vez de la antigua http://vulturchile.tilda.ws
         </p>
-          <img src="/logo_long.png" alt="Vultur Logo" className={styles.logo} />
+        <img src="/Screenshot 2023-07-03 at 21.59.57.png" alt="Vultur Old Page" className={styles.img} />
       </main>
 
       <Footer />
