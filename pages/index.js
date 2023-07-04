@@ -19,7 +19,6 @@ export default function Home() {
 
           Muchas gracxias por visitarnos. Somos Vultur Chile, un equipo de profesionales dedicados a 
 
-            <img src="Screenshot 2023-07-03 at 21.59.57.png" width="213" height="152">
 
       <Footer />
     </div>
